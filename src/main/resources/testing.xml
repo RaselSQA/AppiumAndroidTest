@@ -1,0 +1,7 @@
+<suite name="ToDo App Suite">
+    <test name="ToDo Tests">
+        <classes>
+            <class name="ToDoTests"/>
+        </classes>
+    </test>
+</suite>
